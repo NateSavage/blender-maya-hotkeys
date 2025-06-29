@@ -1,0 +1,1 @@
+Visual diagrams created using [Keyboard Shortcut Map Maker](https://archie-adams.github.io/keyboard-shortcut-map-maker/) by archie adams
