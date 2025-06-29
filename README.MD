@@ -1,7 +1,7 @@
 ### Hello!
 When I started trying to learn Blender, I found the industry standard hotkeys to be lacking for the terminally Maya brained. Hopefully these bindings make the transition a little easier for others.
-The "Hotkeys Map.png" file here shows the default Blender hotkeys vs the main bindings included here.
 
+### Hotkeys In This Plugin Vs. Blender Defaults
 ![blender default hotkeys vs mine](docs/hotkey-map.png)
 
 #### Install Instructions
